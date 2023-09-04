@@ -3,7 +3,7 @@ import kind from '@enact/core/kind';
 import {Panel, Header} from '@enact/sandstone/Panels';
 import React from 'react'
 
-var bridge = new WebOSServiceBridge();
+// var bridge = new WebOSServiceBridge();
 
 const MainPanel = kind({
 	name: 'MainPanel',
